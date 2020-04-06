@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+button {
+ font: italic 10px/15px Helvetica, serif;
+ position: absolute; 
+ top: 390px;
+ left: 640px;
+}
